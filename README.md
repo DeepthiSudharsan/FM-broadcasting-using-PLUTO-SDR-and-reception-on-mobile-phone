@@ -1,3 +1,6 @@
+### In FM broadcasting, the frequency of the carrier wave is modulated to encode the audio signal that is being transmitted. A radio receiver (in this project, our mobile phone) extracts the original audio sound from the modulated radio signal and reproduces the audio in a loudspeaker.
+
+
 ### MATERIALS REQUIRED
 
 1.	Adalm Pluto SDR (along with its USB cable and antennas)
